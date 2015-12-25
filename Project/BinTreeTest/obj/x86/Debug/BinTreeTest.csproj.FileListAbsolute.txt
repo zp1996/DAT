@@ -1,0 +1,10 @@
+D:\数据结构\DAT\BinTreeTest\bin\Debug\BinTreeTest.exe
+D:\数据结构\DAT\BinTreeTest\bin\Debug\BinTreeTest.pdb
+D:\数据结构\DAT\BinTreeTest\bin\Debug\ListInterface.dll
+D:\数据结构\DAT\BinTreeTest\bin\Debug\ListInterface.pdb
+D:\数据结构\DAT\BinTreeTest\obj\x86\Debug\BinTreeTest.csprojResolveAssemblyReference.cache
+D:\数据结构\DAT\BinTreeTest\obj\x86\Debug\BinTreeTest.Form1.resources
+D:\数据结构\DAT\BinTreeTest\obj\x86\Debug\BinTreeTest.Properties.Resources.resources
+D:\数据结构\DAT\BinTreeTest\obj\x86\Debug\BinTreeTest.csproj.GenerateResource.Cache
+D:\数据结构\DAT\BinTreeTest\obj\x86\Debug\BinTreeTest.exe
+D:\数据结构\DAT\BinTreeTest\obj\x86\Debug\BinTreeTest.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\bin\Debug\ListInterface.dll
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\bin\Debug\ListInterface.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

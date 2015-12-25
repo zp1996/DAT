@@ -1,0 +1,10 @@
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\bin\Debug\City.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\bin\Debug\City.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\bin\Debug\ListInterface.dll
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\bin\Debug\ListInterface.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\obj\x86\Debug\City.Form1.resources
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\obj\x86\Debug\City.Properties.Resources.resources
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\obj\x86\Debug\City.csproj.GenerateResource.Cache
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\obj\x86\Debug\City.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\City\obj\x86\Debug\City.pdb

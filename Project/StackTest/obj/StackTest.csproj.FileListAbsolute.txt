@@ -1,0 +1,7 @@
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\obj\x86\Debug\StackTest.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\obj\x86\Debug\StackTest.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\bin\Debug\StackTest.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\bin\Debug\StackTest.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\bin\Debug\ListInterface.dll
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\bin\Debug\ListInterface.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\StackTest\obj\x86\Debug\ResolveAssemblyReference.cache

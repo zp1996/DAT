@@ -1,0 +1,6 @@
+D:\数据结构\C#\DAT\Matrix\obj\x86\Debug\Matrix.exe
+D:\数据结构\C#\DAT\Matrix\obj\x86\Debug\Matrix.pdb
+D:\数据结构\C#\DAT\Matrix\obj\x86\Debug\MatrixTest.csprojResolveAssemblyReference.cache
+D:\数据结构\C#\DAT\Matrix\obj\x86\Debug\MatrixTest.Form1.resources
+D:\数据结构\C#\DAT\Matrix\obj\x86\Debug\Matrix.Properties.Resources.resources
+D:\数据结构\C#\DAT\Matrix\obj\x86\Debug\MatrixTest.csproj.GenerateResource.Cache

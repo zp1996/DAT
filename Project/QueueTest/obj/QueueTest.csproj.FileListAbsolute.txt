@@ -1,0 +1,7 @@
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\bin\Debug\QueueTest.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\bin\Debug\QueueTest.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\bin\Debug\ListInterface.dll
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\bin\Debug\ListInterface.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\obj\x86\Debug\QueueTest.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\QueueTest\obj\x86\Debug\QueueTest.pdb

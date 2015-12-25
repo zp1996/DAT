@@ -1,0 +1,10 @@
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\bin\Debug\MatTest.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\bin\Debug\MatTest.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\bin\Debug\ListInterface.dll
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\bin\Debug\ListInterface.pdb
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\obj\x86\Debug\MatTest.Form1.resources
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\obj\x86\Debug\MatTest.Properties.Resources.resources
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\obj\x86\Debug\MatTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\obj\x86\Debug\MatTest.exe
+C:\Documents and Settings\Math.U32\桌面\C#\DAT\MatTest\obj\x86\Debug\MatTest.pdb
